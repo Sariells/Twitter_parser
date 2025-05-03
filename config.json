@@ -1,0 +1,12 @@
+{
+    "webhook_urls": [
+    "webhooks"
+    ],
+    "hashtags": [
+     ""
+    ],
+
+    "min_wait": 1800,
+    "max_wait": 3600
+  }
+  
